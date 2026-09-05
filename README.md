@@ -29,4 +29,24 @@
 
 <img src="RENARDQUEENSTON.png" width="500"> 
 
+<br>
+
+<div align="center">
+<img src="blinkiesCafe-Ej.gif">
+
+<br>
+
+<br>
+
+<div align="center">
 <img src="youtube.gif">
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<img src="psd-dude-scrolling-text.gif">
