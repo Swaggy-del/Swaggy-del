@@ -1,4 +1,7 @@
-<img src="Tak berjudul58_20260904201807.png" width="300">
+<p align="center">
+  <img src="<img src="Tak berjudul58_20260904201807.png" width="360">
+
+</p>
 
 
 <br>
