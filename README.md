@@ -14,3 +14,6 @@
 <img src="firedivider.gif">
 
 
+<p align="center">
+  IM FUVKING HATE SNAILS 
+</p>
