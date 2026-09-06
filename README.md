@@ -6,28 +6,54 @@
 <br>
 
 <div align="center">
+<table width="100%">
+  <tr>
+    <td align="left">
+      <img src="b53.gif">
+    </td>
+    <td align="right">
+      <img src="j2.gif">
+    </td>
+  </tr>
+</table>
+
+<div align="center">
   <img src="i22.gif">
 </div>
 
 <br>
-
 <img src="firedivider.gif">
 
 <br>
 
+<br>
+
 <p align="center">
-  IM FUVKING HATE SNAILS 
+   <img src="blinkiesCafe-1T.gif" width="200">
 </p>
 
-<br>
-
-<br>
 
 <img src="blooddivider.gif">
 
 <br>
 
 <img src="RENARDQUEENSTON.png" width="500"> 
+
+<br>
+
+<br>
+<img src="b68.png">
+
+<table width="100%">
+  <tr>
+    <td align="left">
+      <img src="b69.png">
+    </td>
+    <td align="right">
+      <img src="b70.png">
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -38,18 +64,27 @@
 
 <br>
 
+<table width="100%">
+  <tr>
+    <td align="left">
+      <img src="tumblr_2dfb9a317a7d0b1d40c8fc9b07ccd728_6f5acc0c_100.png">
+    </td>
+    <td align="right">
+      <img src="121230231_q3q.png">
+    </td>
+  </tr>
+</table>
+
+<br>
+
 <div align="center">
-<img src="youtube.gif">
+  <img src="dandys-world-sprout-dandys-world.webp">
+</div>
 
 <br>
 
-<br>
-
-<div align"center">
-<img src="tumblr_2dfb9a317a7d0b1d40c8fc9b07ccd728_6f5acc0c_100.png">
-
-<br>
-
-<br>
+<p align="center">
+   <img src="blinkiesCafe-uH.gif" width="175">
+</p>
 
 <img src="psd-dude-scrolling-text.gif">
