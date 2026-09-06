@@ -5,26 +5,17 @@
 
 <br>
 
-<div align="center">
-<table width="100%">
-  <tr>
-    <td align="left">
-      <img src="b53.gif">
-    </td>
-    <td align="right">
-      <img src="j2.gif">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="b53.gif" width="120">
+  <img src="j2.gif" width="120">
+</p>
 
-<div align="center">
-  <img src="i22.gif">
-</div>
+<p align="center">
+  <img src="i22.gif" width="120">
 
 <br>
+
 <img src="firedivider.gif">
-
-<br>
 
 <br>
 
@@ -41,19 +32,15 @@
 
 <br>
 
-<br>
+<div align="center">
 <img src="b68.png">
 
-<table width="100%">
-  <tr>
-    <td align="left">
-      <img src="b69.png">
-    </td>
-    <td align="right">
-      <img src="b70.png">
-    </td>
-  </tr>
-</table>
+<div align="center">
+<img src="b69.png">
+
+<img src="b70.png">
+
+<br>
 
 <br>
 
@@ -64,16 +51,10 @@
 
 <br>
 
-<table width="100%">
-  <tr>
-    <td align="left">
-      <img src="tumblr_2dfb9a317a7d0b1d40c8fc9b07ccd728_6f5acc0c_100.png">
-    </td>
-    <td align="right">
-      <img src="121230231_q3q.png">
-    </td>
-  </tr>
-</table>
+<div align="center">
+<img src="121230231_q3q.png">
+
+<img src="tumblr_2dfb9a317a7d0b1d40c8fc9b07ccd728_6f5acc0c_100.png">
 
 <br>
 
