@@ -5,9 +5,6 @@
   <img src="j2.gif" width="120">
 </p>
 
-<p align="center">
-  <img src="i22.gif" width="120">
-
 <br>
 
 <div align="center">
@@ -38,5 +35,3 @@
 <p align="center">
    <img src="blinkiesCafe-uH.gif" width="175">
 </p>
-
-<img src="psd-dude-scrolling-text.gif">
