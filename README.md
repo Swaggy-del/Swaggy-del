@@ -1,6 +1,7 @@
-<h3 align="center">
-  Welcome 
-</h3>
+
+<h1 align="center">
+  <strong>Welcome.</strong>
+</h1>
 
 <br>
 
