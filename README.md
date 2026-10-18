@@ -23,13 +23,6 @@
 <br>
 
 <div align="center">
-<img src="blinkiesCafe-Ej.gif">
-
-<br>
-
-<br>
-
-<div align="center">
 <img src="121230231_q3q.png">
 
 <img src="tumblr_2dfb9a317a7d0b1d40c8fc9b07ccd728_6f5acc0c_100.png">
