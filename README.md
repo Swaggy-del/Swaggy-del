@@ -29,9 +29,3 @@
 <div align="center">
   <img src="dandys-world-sprout-dandys-world.webp">
 </div>
-
-<br>
-
-<p align="center">
-   <img src="blinkiesCafe-uH.gif" width="175">
-</p>
