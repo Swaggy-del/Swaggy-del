@@ -1,4 +1,4 @@
-Pictures/looeyscout.png
+
 
 <p align="center">
   <img src="b53.gif" width="120">
