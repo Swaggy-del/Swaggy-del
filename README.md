@@ -1,9 +1,4 @@
-<img src="Tak berjudul58_20260904201807.png" width="500">
 
-</p>
-
-
-<br>
 
 <p align="center">
   <img src="b53.gif" width="120">
@@ -12,23 +7,6 @@
 
 <p align="center">
   <img src="i22.gif" width="120">
-
-<br>
-
-<img src="firedivider.gif">
-
-<br>
-
-<p align="center">
-   <img src="blinkiesCafe-1T.gif" width="200">
-</p>
-
-
-<img src="blooddivider.gif">
-
-<br>
-
-<img src="RENARDQUEENSTON.png" width="500"> 
 
 <br>
 
